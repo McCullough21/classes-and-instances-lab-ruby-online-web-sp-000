@@ -1,4 +1,4 @@
-class dog
+class Dog
 end
 fido = dog.new
 lassie = dog.new
